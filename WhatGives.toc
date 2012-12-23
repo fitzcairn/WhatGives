@@ -1,0 +1,16 @@
+## Interface: 40300
+## Title: WhatGives
+## Author: Fitzcairn
+## Notes: Quickly and easily find which equipped items award which stats.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables:
+## SavedVariablesPerCharacter:
+## Version: 1.0
+
+lib\FitzUtils\Util.lua
+lib\Defs.lua
+
+localization\Text.lua
+
+WhatGives.lua
